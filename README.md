@@ -179,3 +179,83 @@ This project demonstrates the following technical and analytical skills:
 - Business Insight Generation
 
 ---
+
+
+# 📷 Dashboard Preview
+
+## Executive Churn Overview
+
+![Executive Overview](images/executive-overview.png)
+
+---
+
+## Customer Details & Segmentation
+
+![Customer Details](images/customer-details.png)
+
+---
+
+## Payment Method Analysis
+
+![Payment Method Analysis](images/payment-method-analysis.png)
+
+---
+
+## Contract & Tenure Analysis
+
+![Contract & Tenure Analysis](images/contract-tenure-analysis.png)
+
+
+---
+
+# 📁 Repository Structure
+
+```text
+Telco-Churn-Analysis-PowerBI/
+│
+├── 📄 README.md
+├── 📄 LICENSE
+├── 📄 .gitignore
+├── 📊 Telco Customer Churn Analysis.pbix
+│
+├── 📁 dataset/
+│   └── Telco-Customer-Churn.csv
+│
+├── 📁 images/
+│   ├── executive-overview.png
+│   ├── customer-details.png
+│   ├── payment-method-analysis.png
+│   └── contract-tenure-analysis.png
+│
+└── 📁 dax/
+    └── DAX-Measures.md
+```
+
+---
+
+# 🚀 Future Improvements
+
+Potential enhancements include:
+
+- Predict customer churn using Machine Learning.
+- Publish the report to Power BI Service.
+- Enable Row-Level Security (RLS).
+- Add drill-through pages for customer-level exploration.
+- Build a mobile-optimized report layout.
+- Automate dataset refresh.
+
+---
+
+# 👨‍💻 Author
+
+**Martins F. Balogun**
+
+**Statistician | Data Analyst | Business Intelligence Developer**
+
+Passionate about transforming raw data into actionable business insights using Power BI, SQL, Python, and statistical analysis.
+
+### Connect with me
+
+- 💼 LinkedIn: *(Add your LinkedIn profile URL)*
+- 💻 GitHub: *(Add your GitHub profile URL)*
+- 📧 Email: *(Add your professional email address)*
