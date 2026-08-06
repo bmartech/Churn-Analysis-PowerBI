@@ -120,6 +120,32 @@ Explores the impact of contract type and customer tenure on churn.
 - Churn Rate by Tenure Group
 
 ---
+# 📷 Dashboard Preview
+
+## Executive Churn Overview
+
+![Executive Overview](images/executive-overview.png)
+
+---
+
+## Customer Details & Segmentation
+
+![Customer Details](images/customer-details.png)
+
+---
+
+## Payment Method Analysis
+
+![Payment Method Analysis](images/payment-method-analysis.png)
+
+---
+
+## Contract & Tenure Analysis
+
+![Contract & Tenure Analysis](images/contract-tenure-analysis.png)
+
+---
+
 
 # 📈 Key Insights
 
@@ -177,33 +203,6 @@ This project demonstrates the following technical and analytical skills:
 - Bookmarks and Buttons
 - Slicers and Filters
 - Business Insight Generation
-
----
-
-
-# 📷 Dashboard Preview
-
-## Executive Churn Overview
-
-![Executive Overview](images/executive-overview.png)
-
----
-
-## Customer Details & Segmentation
-
-![Customer Details](images/customer-details.png)
-
----
-
-## Payment Method Analysis
-
-![Payment Method Analysis](images/payment-method-analysis.png)
-
----
-
-## Contract & Tenure Analysis
-
-![Contract & Tenure Analysis](images/contract-tenure-analysis.png)
 
 
 ---
