@@ -256,6 +256,6 @@ Passionate about transforming raw data into actionable business insights using P
 
 ### Connect with me
 
-- 💼 LinkedIn: *(Add your LinkedIn profile URL)*
-- 💻 GitHub: *(Add your GitHub profile URL)*
-- 📧 Email: *(Add your professional email address)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/mfbalogun*
+- 💻 GitHub: *https://github.com/bmartech*
+- 📧 Email: *martinsfriday.mf@gmail.com*
